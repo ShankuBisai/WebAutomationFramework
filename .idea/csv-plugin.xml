@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\bisai\OneDrive - Kudelski Group\Desktop\Desktop\Study material\10.API Testing with Pytest Admas\Notes.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\bisai\OneDrive - Kudelski Group\Desktop\Desktop\Study material\10.API Testing with Pytest Admas\main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\bisai\OneDrive - Kudelski Group\Desktop\Desktop\Study material\10.API Testing with Pytest Admas\test_suite.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
