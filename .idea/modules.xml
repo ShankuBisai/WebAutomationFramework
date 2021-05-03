@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../10.API Testing with Pytest Admas/.idea/10.API Testing with Pytest Admas.iml" filepath="$PROJECT_DIR$/../../10.API Testing with Pytest Admas/.idea/10.API Testing with Pytest Admas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/LetsKodeIt.iml" filepath="$PROJECT_DIR$/.idea/LetsKodeIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../8API Testing with Pytest Admas/APITestFramework/.idea/APITestFramework.iml" filepath="$PROJECT_DIR$/../../8API Testing with Pytest Admas/APITestFramework/.idea/APITestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../8API Testing with Pytest Admas/APITestFrameworkBDD/.idea/APITestFrameworkBDD.iml" filepath="$PROJECT_DIR$/../../8API Testing with Pytest Admas/APITestFrameworkBDD/.idea/APITestFrameworkBDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../10MobileAutomationUsingPython/MobileAutomationFramework/.idea/MobileAutomationFramework.iml" filepath="$PROJECT_DIR$/../../10MobileAutomationUsingPython/MobileAutomationFramework/.idea/MobileAutomationFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../10MobileAutomationUsingPython/MobileAutomationFrameworkBDD/.idea/MobileAutomationFrameworkBDD.iml" filepath="$PROJECT_DIR$/../../10MobileAutomationUsingPython/MobileAutomationFrameworkBDD/.idea/MobileAutomationFrameworkBDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebTestFramework.iml" filepath="$PROJECT_DIR$/.idea/WebTestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebTestFrameworkBDD/.idea/WebTestFrameworkBDD.iml" filepath="$PROJECT_DIR$/../WebTestFrameworkBDD/.idea/WebTestFrameworkBDD.iml" />
     </modules>
   </component>
 </project>

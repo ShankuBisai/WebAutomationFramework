@@ -1,6 +1,6 @@
 import logging
-from pages.actions.homepage.customerpage import CustomerPage
-from pages.actions.loginpage import LoginPage
+from pages.actions.customerpage.customerpage import CustomerPage
+from pages.actions.loginpage.loginpage import LoginPage
 from utilities import custom_logger as cl
 from base.selenium_driver import SeleniumDriver
 from pages.locators.homepagelocators.homepagelocators import HomePageLocators as locator

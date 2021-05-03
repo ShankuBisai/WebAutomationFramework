@@ -13,6 +13,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
+from configfiles import urlconfigs
 
 
 class WebDriverFactory():
@@ -43,7 +44,7 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        baseURL = "https://www.zoho.com/"
+        baseURL = urlconfigs.URLCONFIG.get("baseURL")
         if self.browser == "iexplorer":
             driver = webdriver.Ie()
         elif self.browser == "firefox":

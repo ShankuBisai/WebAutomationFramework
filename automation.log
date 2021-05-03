@@ -147,3 +147,292 @@
 04/06/2021 09:09:20 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + SignInVerification
 04/06/2021 09:09:22 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
 04/06/2021 09:09:22 PM - TestStatus - ERROR: test_SignInLink ### TEST FAILED
+04/30/2021 10:12:47 PM - SeleniumDriver - INFO: Element Found with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 10:12:48 PM - SeleniumDriver - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 10:12:48 PM - CustomerPage - INFO: Element Found with locator: {'xpath': "//span[text()='Trusted by over ']"}
+04/30/2021 10:12:48 PM - CustomerPage - INFO: Element Found
+04/30/2021 10:12:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + CustomerLinkClickVerification
+04/30/2021 10:12:48 PM - TestStatus - INFO: test_CustomerLinkClick ### TEST SUCCESSFUL
+04/30/2021 10:12:59 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:12:59 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:13:11 PM - LoginPage - INFO: Element not found with locator: {'id': 'login_id'}
+04/30/2021 10:13:11 PM - LoginPage - INFO: Element not found
+04/30/2021 10:13:11 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + SignInVerification
+04/30/2021 10:13:23 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:13:23 PM - TestStatus - ERROR: test_SignInLink ### TEST FAILED
+04/30/2021 10:13:29 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:13:29 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:13:29 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:13:29 PM - ClientHomePage - INFO: Element not found with locator: {'id': 'ztb-profile-image'}
+04/30/2021 10:13:29 PM - ClientHomePage - INFO: Element not found
+04/30/2021 10:13:29 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + LoginVerification
+04/30/2021 10:13:29 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:13:30 PM - TestStatus - ERROR: test_Login ### TEST FAILED
+04/30/2021 10:58:40 PM - SeleniumDriver - INFO: Element not found with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 10:58:40 PM - SeleniumDriver - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 10:58:40 PM - CustomerPage - INFO: Element not found with locator: {'xpath': "//span[text()='Trusted by over ']"}
+04/30/2021 10:58:40 PM - CustomerPage - INFO: Element not found
+04/30/2021 10:58:40 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + CustomerLinkClickVerification
+04/30/2021 10:58:40 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:58:40 PM - TestStatus - ERROR: test_CustomerLinkClick ### TEST FAILED
+04/30/2021 10:58:45 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:58:45 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:58:45 PM - LoginPage - INFO: Element not found with locator: {'id': 'login_id'}
+04/30/2021 10:58:45 PM - LoginPage - INFO: Element not found
+04/30/2021 10:58:45 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + SignInVerification
+04/30/2021 10:58:45 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:58:45 PM - TestStatus - ERROR: test_SignInLink ### TEST FAILED
+04/30/2021 10:58:49 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:58:49 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:58:49 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:58:49 PM - ClientHomePage - INFO: Element not found with locator: {'id': 'ztb-profile-image'}
+04/30/2021 10:58:49 PM - ClientHomePage - INFO: Element not found
+04/30/2021 10:58:49 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + LoginVerification
+04/30/2021 10:58:49 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:58:49 PM - TestStatus - ERROR: test_Login ### TEST FAILED
+04/30/2021 10:58:54 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:58:54 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:59:06 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:59:06 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:59:18 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//div[@class='fielderror errorlabel']"}
+04/30/2021 10:59:18 PM - LoginPage - ERROR: Failed to get page title
+04/30/2021 10:59:18 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + InvalidLoginVerification
+04/30/2021 10:59:31 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:59:31 PM - TestStatus - ERROR: test_InvalidLogin ### TEST FAILED
+04/30/2021 10:59:36 PM - HomePage - INFO: Element not found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:59:36 PM - HomePage - INFO: Cannot click on the element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:59:36 PM - LoginPage - ERROR: Failed to get page title
+04/30/2021 10:59:36 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + LoginPageTitle
+04/30/2021 10:59:36 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:59:36 PM - TestStatus - ERROR: test_LoginPageTitle ### TEST FAILED
+04/30/2021 10:59:42 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:59:43 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 10:59:43 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Cannot send data on the element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Element not found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:59:44 PM - LoginPage - INFO: Cannot click on the element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 10:59:44 PM - ClientHomePage - INFO: Element not found with locator: {'id': 'ztb-profile-image'}
+04/30/2021 10:59:44 PM - ClientHomePage - INFO: Element not found
+04/30/2021 10:59:44 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + UserIconVerification
+04/30/2021 10:59:44 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/30/2021 10:59:44 PM - TestStatus - ERROR: test_UserIcon ### TEST FAILED
+04/30/2021 11:06:08 PM - SeleniumDriver - INFO: Element Found with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 11:06:10 PM - SeleniumDriver - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-customers']"}
+04/30/2021 11:06:10 PM - CustomerPage - INFO: Element Found with locator: {'xpath': "//span[text()='Trusted by over ']"}
+04/30/2021 11:06:10 PM - CustomerPage - INFO: Element Found
+04/30/2021 11:06:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + CustomerLinkClickVerification
+04/30/2021 11:06:10 PM - TestStatus - INFO: test_CustomerLinkClick ### TEST SUCCESSFUL
+04/30/2021 11:06:16 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:18 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:18 PM - LoginPage - INFO: Element Found with locator: {'id': 'login_id'}
+04/30/2021 11:06:18 PM - LoginPage - INFO: Element Found
+04/30/2021 11:06:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + SignInVerification
+04/30/2021 11:06:18 PM - TestStatus - INFO: test_SignInLink ### TEST SUCCESSFUL
+04/30/2021 11:06:26 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:27 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:06:27 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:06:30 PM - ClientHomePage - INFO: Element not found with locator: {'id': 'ztb-profile-image'}
+04/30/2021 11:06:30 PM - ClientHomePage - INFO: Element not found
+04/30/2021 11:06:30 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + LoginVerification
+04/30/2021 11:06:30 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\bisai\OneDrive - Kudelski Group\Desktop\Desktop\Study\4Selenium with Python(letskodeit)\WebTestFramework\base\../screenshots/LoginVerification.1619804190796.png
+04/30/2021 11:06:30 PM - TestStatus - ERROR: test_Login ### TEST FAILED
+04/30/2021 11:06:36 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:37 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:37 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:37 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:37 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//div[@class='fielderror errorlabel']"}
+04/30/2021 11:06:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InvalidLoginVerification
+04/30/2021 11:06:37 PM - TestStatus - INFO: test_InvalidLogin ### TEST SUCCESSFUL
+04/30/2021 11:06:43 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:45 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + LoginPageTitle
+04/30/2021 11:06:45 PM - TestStatus - INFO: test_LoginPageTitle ### TEST SUCCESSFUL
+04/30/2021 11:06:51 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:53 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:06:53 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:07:01 PM - ClientHomePage - INFO: Element Found with locator: {'id': 'ztb-profile-image'}
+04/30/2021 11:07:01 PM - ClientHomePage - INFO: Element Found
+04/30/2021 11:07:01 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + UserIconVerification
+04/30/2021 11:07:01 PM - TestStatus - INFO: test_UserIcon ### TEST SUCCESSFUL
+04/30/2021 11:07:07 PM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:07:08 PM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:07:08 PM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+04/30/2021 11:07:13 PM - ClientHomePage - INFO: Element Found with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+04/30/2021 11:07:24 PM - ClientHomePage - INFO: Clicked on element with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+04/30/2021 11:07:34 PM - CRMHomePage - INFO: Element Found with locator: {'id': 'createIcon'}
+04/30/2021 11:07:34 PM - CRMHomePage - INFO: Clicked on element with locator: {'id': 'createIcon'}
+04/30/2021 11:07:44 PM - CRMHomePage - INFO: Element Found with locator: {'xpath': "//*[@id='submenu_Contacts']"}
+04/30/2021 11:07:44 PM - CRMHomePage - INFO: Clicked on element with locator: {'xpath': "//*[@id='submenu_Contacts']"}
+05/02/2021 09:13:23 AM - SeleniumDriver - INFO: Element Found with locator: {'xpath': "//a[@class='zh-customers']"}
+05/02/2021 09:13:25 AM - SeleniumDriver - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-customers']"}
+05/02/2021 09:13:25 AM - CustomerPage - INFO: Element Found with locator: {'xpath': "//span[text()='Trusted by over ']"}
+05/02/2021 09:13:25 AM - CustomerPage - INFO: Element Found
+05/02/2021 09:13:25 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + CustomerLinkClickVerification
+05/02/2021 09:13:25 AM - TestStatus - INFO: test_CustomerLinkClick ### TEST SUCCESSFUL
+05/02/2021 09:13:32 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:13:34 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:13:34 AM - LoginPage - INFO: Element Found with locator: {'id': 'login_id'}
+05/02/2021 09:13:34 AM - LoginPage - INFO: Element Found
+05/02/2021 09:13:34 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + SignInVerification
+05/02/2021 09:13:34 AM - TestStatus - INFO: test_SignInLink ### TEST SUCCESSFUL
+05/02/2021 09:13:41 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:13:43 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:13:43 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:13:51 AM - ClientHomePage - INFO: Element Found with locator: {'id': 'ztb-profile-image'}
+05/02/2021 09:13:51 AM - ClientHomePage - INFO: Element Found
+05/02/2021 09:13:51 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + LoginVerification
+05/02/2021 09:13:51 AM - TestStatus - INFO: test_Login ### TEST SUCCESSFUL
+05/02/2021 09:13:58 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:00 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:00 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:00 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:00 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//div[@class='fielderror errorlabel']"}
+05/02/2021 09:14:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InvalidLoginVerification
+05/02/2021 09:14:00 AM - TestStatus - INFO: test_InvalidLogin ### TEST SUCCESSFUL
+05/02/2021 09:14:07 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:09 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:09 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + LoginPageTitle
+05/02/2021 09:14:09 AM - TestStatus - INFO: test_LoginPageTitle ### TEST SUCCESSFUL
+05/02/2021 09:14:16 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:18 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:14:18 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:14:28 AM - ClientHomePage - INFO: Element Found with locator: {'id': 'ztb-profile-image'}
+05/02/2021 09:14:28 AM - ClientHomePage - INFO: Element Found
+05/02/2021 09:14:28 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + UserIconVerification
+05/02/2021 09:14:28 AM - TestStatus - INFO: test_UserIcon ### TEST SUCCESSFUL
+05/02/2021 09:14:35 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:37 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:14:37 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/02/2021 09:14:44 AM - ClientHomePage - INFO: Element Found with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+05/02/2021 09:15:00 AM - ClientHomePage - INFO: Clicked on element with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+05/02/2021 09:15:10 AM - CRMHomePage - INFO: Element Found with locator: {'id': 'createIcon'}
+05/02/2021 09:15:10 AM - CRMHomePage - INFO: Clicked on element with locator: {'id': 'createIcon'}
+05/02/2021 09:15:20 AM - CRMHomePage - INFO: Element Found with locator: {'xpath': "//*[@id='submenu_Contacts']"}
+05/02/2021 09:15:20 AM - CRMHomePage - INFO: Clicked on element with locator: {'xpath': "//*[@id='submenu_Contacts']"}
+05/03/2021 08:30:11 AM - SeleniumDriver - INFO: Element Found with locator: {'xpath': "//a[@class='zh-customers']"}
+05/03/2021 08:30:12 AM - SeleniumDriver - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-customers']"}
+05/03/2021 08:30:12 AM - CustomerPage - INFO: Element Found with locator: {'xpath': "//span[text()='Trusted by over ']"}
+05/03/2021 08:30:12 AM - CustomerPage - INFO: Element Found
+05/03/2021 08:30:12 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + CustomerLinkClickVerification
+05/03/2021 08:30:12 AM - TestStatus - INFO: test_CustomerLinkClick ### TEST SUCCESSFUL
+05/03/2021 08:30:19 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:20 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:20 AM - LoginPage - INFO: Element Found with locator: {'id': 'login_id'}
+05/03/2021 08:30:20 AM - LoginPage - INFO: Element Found
+05/03/2021 08:30:20 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + SignInVerification
+05/03/2021 08:30:20 AM - TestStatus - INFO: test_SignInLink ### TEST SUCCESSFUL
+05/03/2021 08:30:27 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:29 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:30:29 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:30:34 AM - ClientHomePage - INFO: Element Found with locator: {'id': 'ztb-profile-image'}
+05/03/2021 08:30:34 AM - ClientHomePage - INFO: Element Found
+05/03/2021 08:30:34 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + LoginVerification
+05/03/2021 08:30:34 AM - TestStatus - INFO: test_Login ### TEST SUCCESSFUL
+05/03/2021 08:30:40 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:41 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:41 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:41 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:41 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//div[@class='fielderror errorlabel']"}
+05/03/2021 08:30:41 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InvalidLoginVerification
+05/03/2021 08:30:41 AM - TestStatus - INFO: test_InvalidLogin ### TEST SUCCESSFUL
+05/03/2021 08:30:47 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:48 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + LoginPageTitle
+05/03/2021 08:30:48 AM - TestStatus - INFO: test_LoginPageTitle ### TEST SUCCESSFUL
+05/03/2021 08:30:54 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:55 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:30:55 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:30:56 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:31:00 AM - ClientHomePage - INFO: Element Found with locator: {'id': 'ztb-profile-image'}
+05/03/2021 08:31:00 AM - ClientHomePage - INFO: Element Found
+05/03/2021 08:31:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + UserIconVerification
+05/03/2021 08:31:00 AM - TestStatus - INFO: test_UserIcon ### TEST SUCCESSFUL
+05/03/2021 08:31:06 AM - HomePage - INFO: Element Found with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:31:07 AM - HomePage - INFO: Clicked on element with locator: {'xpath': "//a[@class='zh-login']"}
+05/03/2021 08:31:07 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:31:07 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='login_id']"}
+05/03/2021 08:31:07 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:31:07 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Next']"}
+05/03/2021 08:31:07 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:31:08 AM - LoginPage - INFO: Sent data on element with locator: {'xpath': "//input[@id='password']"}
+05/03/2021 08:31:08 AM - LoginPage - INFO: Element Found with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:31:08 AM - LoginPage - INFO: Clicked on element with locator: {'xpath': "//button[@id='nextbtn']//span[text()='Sign in']"}
+05/03/2021 08:31:12 AM - ClientHomePage - INFO: Element Found with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+05/03/2021 08:31:26 AM - ClientHomePage - INFO: Clicked on element with locator: {'xpath': "//span[@class='_logo-crm _logo-x96 zod-app-logo']"}
+05/03/2021 08:31:36 AM - CRMHomePage - INFO: Element Found with locator: {'id': 'createIcon'}
+05/03/2021 08:31:36 AM - CRMHomePage - INFO: Clicked on element with locator: {'id': 'createIcon'}
+05/03/2021 08:31:46 AM - CRMHomePage - INFO: Element Found with locator: {'xpath': "//*[@id='submenu_Contacts']"}
+05/03/2021 08:31:46 AM - CRMHomePage - INFO: Clicked on element with locator: {'xpath': "//*[@id='submenu_Contacts']"}

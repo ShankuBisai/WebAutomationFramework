@@ -1,4 +1,4 @@
-from pages.locators.loginpagelocators import LoginPageLocator as locator
+from pages.locators.loginpagelocator.loginpagelocators import LoginPageLocator as locator
 from pages.actions.clienthomepage.clienthomepage import ClientHomePage
 from base.basepage import BasePage
 from utilities import custom_logger as cl

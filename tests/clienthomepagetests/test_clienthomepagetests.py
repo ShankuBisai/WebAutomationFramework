@@ -1,5 +1,4 @@
 import pytest
-
 from pages.actions.homepage.homepage import HomePage
 from pages.actions.loginpage.loginpage import LoginPage
 from utilities.teststatus import TestStatus

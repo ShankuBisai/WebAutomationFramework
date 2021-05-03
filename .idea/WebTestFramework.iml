@@ -6,9 +6,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="10.API Testing with Pytest Admas" />
     <orderEntry type="module" module-name="APITestFramework" />
-    <orderEntry type="module" module-name="PythonBehaveFramework" />
+    <orderEntry type="module" module-name="APITestFrameworkBDD" />
     <orderEntry type="module" module-name="WebTestFrameworkBDD" />
-    <orderEntry type="module" module-name="BDDAPITestFramework" />
+    <orderEntry type="module" module-name="MobileAutomationFramework" />
+    <orderEntry type="module" module-name="MobileAutomationFrameworkBDD" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
