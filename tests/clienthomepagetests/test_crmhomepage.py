@@ -3,7 +3,7 @@ import time
 from pages.actions.clienthomepage.clienthomepage import ClientHomePage
 from pages.actions.clienthomepage.crmhomepage import CRMHomePage
 from pages.actions.homepage.homepage import HomePage
-from pages.actions.loginpage import LoginPage
+from pages.actions.loginpage.loginpage import LoginPage
 from utilities.teststatus import TestStatus
 
 

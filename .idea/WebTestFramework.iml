@@ -5,6 +5,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="10.API Testing with Pytest Admas" />
+    <orderEntry type="module" module-name="APITestFramework" />
+    <orderEntry type="module" module-name="PythonBehaveFramework" />
+    <orderEntry type="module" module-name="WebTestFrameworkBDD" />
+    <orderEntry type="module" module-name="BDDAPITestFramework" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

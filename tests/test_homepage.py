@@ -1,6 +1,6 @@
 import  pytest
 from pages.actions.homepage.homepage import HomePage
-from pages.locators.customerpageLocators import CustomerPageLocators as locator
+from pages.locators.customerpagelocator.customerpagelocators import CustomerPageLocators as locator
 from utilities.teststatus import TestStatus
 
 
