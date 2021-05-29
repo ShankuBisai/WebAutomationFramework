@@ -17,7 +17,7 @@ class TestLoginPage:
     @pytest.mark.run(order=1)
     def test_Login(self):
         self.hp.clickSignInLink()
-        self.chp=self.lp.login("shankubisai3333@gmail.com", "shanku12345#")
+        self.chp=self.lp.login("shankubisai3333@gmail.com", "")
         result=bool(self.chp.verifyUserIcon() == True)
         self.ts.mark("test_Login",result,"LoginVerification")
 
